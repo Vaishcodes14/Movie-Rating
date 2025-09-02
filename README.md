@@ -1,8 +1,14 @@
 # 🎬 Movie Rating Database + Machine Learning
 
-A fun and educational project that starts with a **movie rating database** (IMDb-style 📊) and extends into **machine learning 🔮** for recommendations & predictions.  
+A complete beginner-friendly project that starts with a **Movie Rating Database** and extends into **Machine Learning**.  
 
-✨ Perfect for beginners to learn SQL + ML in one project!
+👉 Core focus:  
+- 🔎 **Filtering, Sorting, Aggregations**  
+- 🗄️ **MySQL / SQLite support**  
+- 📊 **GROUP BY, AVG, COUNT queries**  
+- 🎥 Foundational logic for **IMDb-type platforms**  
+
+✨ After the SQL part, we add ML models for **recommendations & predictions** 🔮  
 
 ---
 
