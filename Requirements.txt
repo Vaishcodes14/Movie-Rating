@@ -1,0 +1,12 @@
+# Database
+sqlite3-binary
+
+# Data handling
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Optional (only if you want better pretty tables in SQL outputs)
+tabulate
